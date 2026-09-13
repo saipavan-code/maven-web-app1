@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='black'> WELCOME TO RR-TECHNOSOFT TRAINING INSTITUTE-HYDERABAD <font></h1>
+<h1><font color='red'> WELCOME TO RR-TECHNOSOFT TRAINING INSTITUTE-HYDERABAD <font></h1>
 
 <a href="https://www.rrtechnosoft.in/">Click Here To See Courses</a>
   
   <h2><font color='blue'> Call Us : +91-9490507503 / +91 - 8919058767 </h2>
   
-  <h3><font color='red'> Our Office Location : KPHB, Hyderbad, Telangana-state</h3>
+  <h3><font color='green'> Our Office Location : KPHB, Hyderbad, Telangana-state</h3>
 
 
 </body>
